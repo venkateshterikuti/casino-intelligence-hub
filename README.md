@@ -1,4 +1,6 @@
 ![CIH-1](https://github.com/user-attachments/assets/94ed3300-1c94-4b5e-8ab4-30e3651e8d4e)
+![CIH-2](https://github.com/user-attachments/assets/75b53f36-5880-41de-bc8b-def0833fa607)
+
 # Casino Player Intelligence Hub
 
 ## Project Overview
